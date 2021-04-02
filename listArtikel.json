@@ -1,0 +1,92 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1617348196400,
+      "nama": "samsung",
+      "harga": "10000000",
+      "stok": "4",
+      "link_gambar": "https://images.samsung.com/is/image/samsung/id-top-mount-freezer-rt29k503jb1-rt29k503jb1-se-frontblack-284812730?$720_576_PNG$"
+    },
+    {
+      "userId": 1,
+      "id": 1617348583872,
+      "nama": "sharp",
+      "harga": "5000000",
+      "stok": "5",
+      "link_gambar": "https://i.ytimg.com/vi/mGEVOrGLDcA/maxresdefault.jpg"
+    },
+    {
+      "userId": 1,
+      "id": 1617348618714,
+      "nama": "aqua",
+      "harga": "6000000",
+      "stok": "5",
+      "link_gambar": "https://s3.bukalapak.com/uploads/content_attachment/da630ed010e8d76216a5ccb5/w-744/Keunggulan_Kulkas_Aqua_AQR-D191_-_3.jpg"
+    },
+    {
+      "userId": 1,
+      "id": 1617348653191,
+      "nama": "Pahe (Paket Hemat)",
+      "harga": "12000000",
+      "stok": "2",
+      "link_gambar": "https://s0.bukalapak.com/bukalapak-kontenz-production/content_attachments/56585/w-744/Kulkas_Sharp_Terbaik.jpg"
+    },
+    {
+      "userId": 1,
+      "id": 1617348686431,
+      "nama": "2 Pintu",
+      "harga": "10000000",
+      "stok": "2",
+      "link_gambar": "https://s1.bukalapak.com/uploads/content_attachment/15aaa0b6e14d81241d2660b5/w-744/Rekomendasi_Kulkas_Side_by_Side_-_2.jpg"
+    },
+    {
+      "userId": 1,
+      "id": 1617348712744,
+      "nama": "Smart Freezer",
+      "harga": "9000000",
+      "stok": "7",
+      "link_gambar": "https://s4.bukalapak.com/uploads/content_attachment/9641ec5272f7bf26c03660b5/w-744/Rekomendasi_Kulkas_Side_by_Side_-_4.jpg"
+    },
+    {
+      "userId": 1,
+      "id": 1617348750479,
+      "nama": "Smart LCD",
+      "harga": "14000000",
+      "stok": "7",
+      "link_gambar": "https://www.lg.com/id/images/kulkas/md06164877/md06164877-350x350.jpg"
+    },
+    {
+      "userId": 1,
+      "id": 1617348789752,
+      "nama": "Medium Paket",
+      "harga": "15000000",
+      "stok": "3",
+      "link_gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8PMno0vVAOwI4f62KUQmDlcVNadSbdWg2Dg&usqp=CAU"
+    },
+    {
+      "userId": 1,
+      "id": 1617348816400,
+      "nama": "Luxury Model",
+      "harga": "16000000",
+      "stok": "1",
+      "link_gambar": "https://p4.wallpaperbetter.com/wallpaper/960/357/187/design-photo-interior-refrigerator-wallpaper-preview.jpg"
+    },
+    {
+      "userId": 1,
+      "id": 1617348849986,
+      "nama": "Black Sharp Model",
+      "harga": "8000000",
+      "stok": "5",
+      "link_gambar": "https://aquajapanid.com/upload_files/files/c7a5d4e3-43ca-4d23-9831-3d02e09df808/AQR350RBGTampakKanan.jpg"
+    },
+    {
+      "userId": 1,
+      "id": 1617348872812,
+      "nama": "Ice Serut",
+      "harga": "12000000",
+      "stok": "3",
+      "link_gambar": "https://s4.bukalapak.com/uploads/content_attachment/9eba74aeb7c4f80edf898ab5/w-744/Keunggulan_Kulkas_LG_door_in_door-1.jpg"
+    }
+  ]
+}

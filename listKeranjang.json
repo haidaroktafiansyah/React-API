@@ -1,0 +1,12 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1617348501743,
+      "nama": "samsung",
+      "harga": "10000000",
+      "stok": "4",
+      "link_gambar": "https://images.samsung.com/is/image/samsung/id-top-mount-freezer-rt29k503jb1-rt29k503jb1-se-frontblack-284812730?$720_576_PNG$"
+    }
+  ]
+}
